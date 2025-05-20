@@ -1,0 +1,20 @@
+{
+    "Pain Intensity": -1,
+    "Pain Location_No Pain": 1,
+    "Oxygen Saturation (%)": 1,
+    "Body Temperature (\u00b0C)": 1,
+    "Pain Crises Frequency (past year)": -1,
+    "Respiratory Rate (bpm)": 1,
+    "Heart Rate (bpm)": 1,
+    "Acute Chest Syndrome": 1,
+    "Hospitalization History (past year)": -1,
+    "Dizziness": 1,
+    "Pain Location_Head": -1,
+    "Nausea": 1,
+    "Fever": 1,
+    "Jaundice": 1,
+    "Shortness of Breath": 1,
+    "Swelling": 1,
+    "Headache": 1,
+    "Fatigue": 1
+}

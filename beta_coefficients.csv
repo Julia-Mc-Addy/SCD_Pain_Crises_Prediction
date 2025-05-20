@@ -1,0 +1,91 @@
+transition,description,feature,beta
+lam01,C0 → C1  (acute onset),Pain Intensity,0.36956149339675903
+lam01,C0 → C1  (acute onset),Pain Location_No Pain,-5.75471305847168
+lam01,C0 → C1  (acute onset),Oxygen Saturation (%),-0.08109656721353531
+lam01,C0 → C1  (acute onset),Body Temperature (°C),-1.0589290857315063
+lam01,C0 → C1  (acute onset),Pain Crises Frequency (past year),0.339945524930954
+lam01,C0 → C1  (acute onset),Respiratory Rate (bpm),1.1501097679138184
+lam01,C0 → C1  (acute onset),Heart Rate (bpm),1.4797669649124146
+lam01,C0 → C1  (acute onset),Acute Chest Syndrome,-0.03755706548690796
+lam01,C0 → C1  (acute onset),Hospitalization History (past year),0.33135494589805603
+lam01,C0 → C1  (acute onset),Dizziness,0.26860737800598145
+lam01,C0 → C1  (acute onset),Pain Location_Head,4.539377212524414
+lam01,C0 → C1  (acute onset),Nausea,0.24640510976314545
+lam01,C0 → C1  (acute onset),Fever,0.27437254786491394
+lam01,C0 → C1  (acute onset),Jaundice,0.2170698195695877
+lam01,C0 → C1  (acute onset),Shortness of Breath,0.10619273781776428
+lam01,C0 → C1  (acute onset),Swelling,0.21679532527923584
+lam01,C0 → C1  (acute onset),Headache,0.265973836183548
+lam01,C0 → C1  (acute onset),Fatigue,0.21008391678333282
+lam02,C0 → C2  (chronic onset),Pain Intensity,-0.23516105115413666
+lam02,C0 → C2  (chronic onset),Pain Location_No Pain,-3.0318872928619385
+lam02,C0 → C2  (chronic onset),Oxygen Saturation (%),0.2333097904920578
+lam02,C0 → C2  (chronic onset),Body Temperature (°C),1.4200116395950317
+lam02,C0 → C2  (chronic onset),Pain Crises Frequency (past year),-0.35758712887763977
+lam02,C0 → C2  (chronic onset),Respiratory Rate (bpm),-1.2356458902359009
+lam02,C0 → C2  (chronic onset),Heart Rate (bpm),-1.752568006515503
+lam02,C0 → C2  (chronic onset),Acute Chest Syndrome,-0.08801715821027756
+lam02,C0 → C2  (chronic onset),Hospitalization History (past year),-0.23301510512828827
+lam02,C0 → C2  (chronic onset),Dizziness,-0.24083860218524933
+lam02,C0 → C2  (chronic onset),Pain Location_Head,-8.301261901855469
+lam02,C0 → C2  (chronic onset),Nausea,-0.338400661945343
+lam02,C0 → C2  (chronic onset),Fever,-0.27709701657295227
+lam02,C0 → C2  (chronic onset),Jaundice,-0.22741664946079254
+lam02,C0 → C2  (chronic onset),Shortness of Breath,-0.252458393573761
+lam02,C0 → C2  (chronic onset),Swelling,-0.39193105697631836
+lam02,C0 → C2  (chronic onset),Headache,-0.2538066804409027
+lam02,C0 → C2  (chronic onset),Fatigue,-0.3914075493812561
+rho1,C1 → C0  (acute resolution),Pain Intensity,-0.5524480938911438
+rho1,C1 → C0  (acute resolution),Pain Location_No Pain,5.069482326507568
+rho1,C1 → C0  (acute resolution),Oxygen Saturation (%),-0.029825733974575996
+rho1,C1 → C0  (acute resolution),Body Temperature (°C),0.675776481628418
+rho1,C1 → C0  (acute resolution),Pain Crises Frequency (past year),-0.5248104333877563
+rho1,C1 → C0  (acute resolution),Respiratory Rate (bpm),-0.8679916262626648
+rho1,C1 → C0  (acute resolution),Heart Rate (bpm),-0.971802830696106
+rho1,C1 → C0  (acute resolution),Acute Chest Syndrome,-0.1534131020307541
+rho1,C1 → C0  (acute resolution),Hospitalization History (past year),-0.605232298374176
+rho1,C1 → C0  (acute resolution),Dizziness,-0.5603442192077637
+rho1,C1 → C0  (acute resolution),Pain Location_Head,-1.5796343088150024
+rho1,C1 → C0  (acute resolution),Nausea,-0.5015820264816284
+rho1,C1 → C0  (acute resolution),Fever,-0.35020074248313904
+rho1,C1 → C0  (acute resolution),Jaundice,-0.34633681178092957
+rho1,C1 → C0  (acute resolution),Shortness of Breath,-0.38631871342658997
+rho1,C1 → C0  (acute resolution),Swelling,-0.4536665380001068
+rho1,C1 → C0  (acute resolution),Headache,-0.2787091135978699
+rho1,C1 → C0  (acute resolution),Fatigue,-0.30825889110565186
+rho2,C2 → C0  (chronic resolution),Pain Intensity,-3.873349905014038
+rho2,C2 → C0  (chronic resolution),Pain Location_No Pain,5.914544105529785
+rho2,C2 → C0  (chronic resolution),Oxygen Saturation (%),0.18073762953281403
+rho2,C2 → C0  (chronic resolution),Body Temperature (°C),0.7189520001411438
+rho2,C2 → C0  (chronic resolution),Pain Crises Frequency (past year),-0.7572714686393738
+rho2,C2 → C0  (chronic resolution),Respiratory Rate (bpm),-0.8520004749298096
+rho2,C2 → C0  (chronic resolution),Heart Rate (bpm),-0.5437027215957642
+rho2,C2 → C0  (chronic resolution),Acute Chest Syndrome,-0.18383057415485382
+rho2,C2 → C0  (chronic resolution),Hospitalization History (past year),-0.35992756485939026
+rho2,C2 → C0  (chronic resolution),Dizziness,-0.6718358993530273
+rho2,C2 → C0  (chronic resolution),Pain Location_Head,2.983609914779663
+rho2,C2 → C0  (chronic resolution),Nausea,-0.591759204864502
+rho2,C2 → C0  (chronic resolution),Fever,-0.5827175378799438
+rho2,C2 → C0  (chronic resolution),Jaundice,-0.12204489856958389
+rho2,C2 → C0  (chronic resolution),Shortness of Breath,-0.2891724407672882
+rho2,C2 → C0  (chronic resolution),Swelling,-0.38319796323776245
+rho2,C2 → C0  (chronic resolution),Headache,-0.7894797921180725
+rho2,C2 → C0  (chronic resolution),Fatigue,-0.39260563254356384
+kap,C1 → C2  (chronicisation),Pain Intensity,-0.16884708404541016
+kap,C1 → C2  (chronicisation),Pain Location_No Pain,3.0914793014526367
+kap,C1 → C2  (chronicisation),Oxygen Saturation (%),-0.03363914042711258
+kap,C1 → C2  (chronicisation),Body Temperature (°C),0.19830113649368286
+kap,C1 → C2  (chronicisation),Pain Crises Frequency (past year),-0.1491224616765976
+kap,C1 → C2  (chronicisation),Respiratory Rate (bpm),-0.13925115764141083
+kap,C1 → C2  (chronicisation),Heart Rate (bpm),-0.1542670577764511
+kap,C1 → C2  (chronicisation),Acute Chest Syndrome,-0.09566740691661835
+kap,C1 → C2  (chronicisation),Hospitalization History (past year),-0.11954620480537415
+kap,C1 → C2  (chronicisation),Dizziness,-0.1289871484041214
+kap,C1 → C2  (chronicisation),Pain Location_Head,-0.2214999496936798
+kap,C1 → C2  (chronicisation),Nausea,-0.14858244359493256
+kap,C1 → C2  (chronicisation),Fever,-0.13449810445308685
+kap,C1 → C2  (chronicisation),Jaundice,-0.11479442566633224
+kap,C1 → C2  (chronicisation),Shortness of Breath,-0.12291375547647476
+kap,C1 → C2  (chronicisation),Swelling,-0.1145780012011528
+kap,C1 → C2  (chronicisation),Headache,-0.11364792287349701
+kap,C1 → C2  (chronicisation),Fatigue,-0.1376596987247467
